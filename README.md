@@ -10,9 +10,11 @@ RULES:
 
 This progam could be divided on 3 BIG class families:
 
-      1 - > INPUT
-I want this role m8 :3
-      2 - > GENERATOR
-Who want this role ask me 
-      3 - > GAME
-Same as point 2
+    1 - > INPUT
+      I want this role m8 :3
+
+    2 - > GENERATOR
+      Who want this role ask me 
+
+    3 - > GAME
+      Same as point 2
