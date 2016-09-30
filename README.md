@@ -15,7 +15,7 @@ RULES:
 
 
 
-This progam could be divided on 3 BIG class families:
+This progam has 3 BIG class families:
 
     1 - > INPUT
       I want this role m8 :3
