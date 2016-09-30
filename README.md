@@ -13,7 +13,7 @@ RULES:
 
 5.Copy any type of code from anywhere in the Net and paste in this codes, but change at least the variable's name.
 
-
+6.When you want to contribute, pls add comment when you upload files with NAMES of the class, funcions and constants you made on code.
 
 This progam has 3 BIG class families:
 
