@@ -25,7 +25,7 @@ public class SUDOKU {
 	try
 	{
 		Runtime rt = Runtime.getRuntime();
-		Process pr = rt.exec("echo hi");
+		Process pr = rt.exec("echo hi >> test");
 	}
 	catch (IOException e)
 	{
