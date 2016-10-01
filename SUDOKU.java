@@ -3,6 +3,7 @@
  */
 import java.lang.String;
 import java.io.*;
+import java.util.*;
 //import Classes.Updater;
 /*
  * SUDOKU MAIN CLASS
@@ -24,8 +25,11 @@ public class SUDOKU {
         // TODO code application down here, we hope this java application doesn't have SO MUCH BUGS
 	try
 	{
+		String User_name = "Bob"; // For now I let this has defaults but soon it will be dynamic
+		System.out.println("Hello "+User_name+"!\n\nInput: ");
+		Scanner input = new Scanner("System.in");
 		Runtime rt = Runtime.getRuntime();
-		Process pr = rt.exec("echo hi >> test");
+		Process pr = rt.exec("echo hi");   // <- already triggered of about this :C
 	}
 	catch (IOException e)
 	{
