@@ -6,7 +6,7 @@ import java.lang.String;
 /*
  * SUDOKU MAIN CLASS
  */
-//package sudoku;
+package sudoku;
 
 /**
  * @author Lince99
