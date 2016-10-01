@@ -27,7 +27,7 @@ public class SUDOKU {
 		Runtime rt = Runtime.getRuntime();
 		Process pr = rt.exec("echo hi");
 	}
-	catch(excention IOException)
+	catch (IOException e)
 	{
 		System.out.println("Failed to execute!");
 	}
