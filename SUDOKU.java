@@ -31,5 +31,5 @@ public class SUDOKU {
 	{
 		System.out.println("Failed to execute!");
 	}
-	}
+    }
 }
