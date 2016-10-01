@@ -2,7 +2,7 @@
  * Imports
  */
 import java.lang.String;
-import SUDOKU/Classes/Update;
+import SUDOKU/Classes/Update.java;
 /*
  * SUDOKU MAIN CLASS
  */
